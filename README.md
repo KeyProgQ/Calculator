@@ -10,7 +10,7 @@
 Вимоги:
 - [Python 3.10+](https://www.python.org/)
 - [PyQt5](https://pypi.org/project/PyQt5/)
-- [QT Designer (необов'язково](https://build-system.fman.io/qt-designer-download)
+- [QT Designer (необов'язково)](https://build-system.fman.io/qt-designer-download)
 
 Встановлення:
 ```bash
